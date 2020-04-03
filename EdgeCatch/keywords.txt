@@ -1,0 +1,3 @@
+EdgeCatch	KEYWORD1
+Rising		KEYWORD2
+Falling		KEYWORD2
