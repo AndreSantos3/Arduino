@@ -2,4 +2,5 @@
 ## Info
 This repository have some libraries made by me and some examples.
 ## Content
-- [EdgeCatch](Edgecatch)
+Rising and falling edge detection
+- [EdgeCatch](https://github.com/AndreSantos3/Arduino/tree/master/EdgeCatch)
